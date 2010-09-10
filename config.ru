@@ -1,3 +1,3 @@
-require 'hello'
+require 'stone'
 run Sinatra::Application
 
