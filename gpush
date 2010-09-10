@@ -1,0 +1,5 @@
+#!/bin/csh
+git add .
+git commit -a -m "remote"
+git push heroku master
+
