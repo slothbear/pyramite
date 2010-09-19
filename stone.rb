@@ -1,8 +1,9 @@
 require 'rubygems'
 require 'sinatra'
+require 'yaml'
 
 get '/' do
-  puts "hi there"
+  [:copper, :estate, :chapel].to_yaml
 end
 
 
