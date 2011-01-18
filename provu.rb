@@ -1,3 +1,3 @@
 #!/usr/local/bin/ruby
 
-puts 'saluton mondo'
+puts 'get ready, phx,"
